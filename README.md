@@ -1,4 +1,47 @@
-### Hi there 👋
+# Timothy's GitHub Profile 
+
+Hello, I'm Timothy, and welcome to my GitHub profile! 👋👨🏻‍💻
+
+## About Me
+
+I currently work as a software/satellite operations engineer, focusing on building internal web applications to streamline operations at my workplace. My engineering background and coding skills enable me to solve real-world challenges through technology!
+
+## Tech Stack
+
+Here's a glimpse of my current tech stack:
+
+- **HTML:** Building the foundation of web pages.
+- **CSS:** Styling and making websites visually appealing.
+- **JavaScript (JS):** Adding interactivity and functionality to web applications.
+- **React:** Crafting dynamic and responsive user interfaces.
+- **SQL:** Managing and querying databases.
+
+## Current Interests
+
+In addition to web development, I've also been exploring mobile development. The prospect of creating apps that can run on millions of devices and make people's lives easier is truly captivating. Stay tuned for the first mobile project on my repository! 
+
+## Projects
+
+While I'm actively working on expanding my skill set, I've also created a few projects that showcase my web development capabilities.
+
+* Bicycle Maintenance App: Tracking bicycle component lifespans and usage using React and Redux.
+
+* Wordle Game: Building a captivating word puzzle game with HTML, CSS, and JavaScript.
+
+* Vehicle Fleet Management Web App: Developing a fleet management solution with NextJS, Tailwind, React, and MySQL.
+
+## Contact Me
+
+I'm always open to collaboration, discussions, and learning from fellow developers. Whether it's about web development, mobile development, or the fascinating world of engineering, feel free to reach out to me through the following channels:
+
+- ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/timothy-kwz/)
+- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- Email: timothykwok95@gmail.com
+
+Let's connect, share our knowledge, and build innovative solutions together!
+
+Happy coding and soaring to new heights! 🚀✈️
+I 
 
 <!--
 **timmywimmy95/timmywimmy95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
