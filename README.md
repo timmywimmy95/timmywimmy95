@@ -17,10 +17,6 @@ Here's a glimpse of my current tech stack:
 - **SQL:** Managing and querying databases.
 - **Python:** Exploring data analysis and scripting capabilities..
 
-## Current Interests
-
-In addition to web development, I've also been exploring mobile development. The prospect of creating apps that can run on millions of devices and make people's lives easier is truly captivating. Stay tuned for the first mobile project on my repository! 
-
 ## Projects
 
 While I'm actively working on expanding my skill set, I've also created a few projects that showcase my web development capabilities.
@@ -30,6 +26,10 @@ While I'm actively working on expanding my skill set, I've also created a few pr
 * Wordle Game: Building a captivating word puzzle game with HTML, CSS, and JavaScript.
 
 * Vehicle Fleet Management Web App: Developing a fleet management solution with NextJS, Tailwind, React, and MySQL.
+
+## Current Interests
+
+In addition to web development, I've also been exploring mobile development. The prospect of creating apps that can run on millions of devices and make people's lives easier is truly captivating. Stay tuned for the first mobile project on my repository! 
 
 ## Contact Me
 
