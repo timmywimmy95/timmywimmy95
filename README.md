@@ -34,7 +34,7 @@ While I'm actively working on expanding my skill set, I've also created a few pr
 
 I'm always open to collaboration, discussions, and learning from fellow developers. Whether it's about web development, mobile development, or the fascinating world of engineering, feel free to reach out to me through the following channels:
 
-- ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/timothy-kwz/)
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-kwz/)
 - Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 - Email: timothykwok95@gmail.com
 
