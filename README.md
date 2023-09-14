@@ -15,6 +15,7 @@ Here's a glimpse of my current tech stack:
 - **JavaScript (JS):** Adding interactivity and functionality to web applications.
 - **React:** Crafting dynamic and responsive user interfaces.
 - **SQL:** Managing and querying databases.
+- **Python:** Exploring data analysis and scripting capabilities..
 
 ## Current Interests
 
