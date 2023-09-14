@@ -36,8 +36,10 @@ In addition to web development, I've also been exploring mobile development. The
 I'm always open to collaboration, discussions, and learning from fellow developers. Whether it's about web development, mobile development, or the fascinating world of engineering, feel free to reach out to me through the following channels:
 
 Let's connect, share our knowledge, and build innovative solutions together!
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-kwz/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timothykwok95@gmail.com)
+
 Happy coding and soaring to new heights! 🚀✈️
 
 
