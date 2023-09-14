@@ -4,7 +4,7 @@ Hello, I'm Timothy, and welcome to my GitHub profile! 👋
 
 ## 😎 About Me
 
-I currently work as a software/satellite operations engineer, focusing on building internal web applications to streamline operations at my workplace. My engineering background and coding skills enable me to solve real-world challenges through technology!
+I currently work as a software/satellite operations engineer, focusing on building internal web applications to streamline operations at my workplace. My engineering background and knowledge in fullstack development enablse me to solve real-world challenges and eliminating repetitive tasks through technology!
 
 ## 👨🏻‍💻 Tech Stack
 
