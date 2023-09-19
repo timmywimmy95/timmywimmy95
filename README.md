@@ -12,10 +12,9 @@ Here's a glimpse of my current tech stack:
 
 - **HTML:** Building the foundation of web pages.
 - **CSS:** Styling and making websites visually appealing.
-- **JavaScript (JS):** Adding interactivity and functionality to web applications.
+- **JavaScript/TypeScript (JS/TS):** Adding interactivity and functionality to web applications.
 - **React:** Crafting dynamic and responsive user interfaces.
 - **SQL:** Managing and querying databases.
-- **Python:** Exploring data analysis and scripting capabilities..
 
 ## 🔭 Projects
 
